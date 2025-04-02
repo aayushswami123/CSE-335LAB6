@@ -34,7 +34,7 @@ This is a SwiftUI iOS app that fetches and displays a list of the top 10 most po
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/geonames-swiftui-app.git
+   git clone https://github.com/aayushswami123/geonames-swiftui-app.git
    cd geonames-swiftui-app
    ```
 
